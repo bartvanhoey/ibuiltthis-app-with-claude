@@ -3,5 +3,9 @@
     "allow": [
       "Bash(git add:*)"
     ]
-  }
+  },
+  "disabledMcpjsonServers": [
+    "context7",
+    "playwright"
+  ]
 }
